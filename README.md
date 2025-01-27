@@ -32,6 +32,14 @@ In this task, we performed EDA to understand the data and uncover useful insight
 - **Jupyter Notebook/Python Script** containing the EDA code.
 - **PDF Report** summarizing the business insights.
 
+### Outputs (Graphs)
+![image](https://github.com/user-attachments/assets/a97929b4-0eea-4a9e-9250-67ad7292bb2b)
+![image](https://github.com/user-attachments/assets/ea2da73d-73bb-40d8-ab0b-452539504c24)
+![image](https://github.com/user-attachments/assets/05d2e48f-1f52-414f-a9fd-f0f9eca36a46)
+
+**PDF Of Insights** 
+![image](https://github.com/user-attachments/assets/62d0ed51-0ef6-4b53-a25e-019fa3e21055)
+
 ---
 
 ## Task 2: Lookalike Model
