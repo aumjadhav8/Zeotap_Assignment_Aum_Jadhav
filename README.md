@@ -8,8 +8,6 @@ This project focuses on customer segmentation, lookalike modeling, and clusterin
 2. [Task 2: Lookalike Model](#task-2-lookalike-model)
 3. [Task 3: Customer Segmentation / Clustering](#task-3-customer-segmentation--clustering)
 4. [Dependencies](#dependencies)
-5. [Usage](#usage)
-6. [Evaluation Criteria](#evaluation-criteria)
 
 ---
 
