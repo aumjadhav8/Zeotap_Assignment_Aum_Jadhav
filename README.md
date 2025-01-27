@@ -104,6 +104,7 @@ To perform customer segmentation using clustering, we will:
 ![image](https://github.com/user-attachments/assets/057174f9-40f8-4b7e-9c2c-10e24adc9bc0)
 
 ---
+## Warning : Inorder to run the ipynb files (notebooks) please copy the dataset csv in the same directory as the notebook files.
 
 ## Dependencies
 
