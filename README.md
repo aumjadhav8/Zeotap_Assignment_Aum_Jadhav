@@ -64,6 +64,14 @@ The objective of Task 2 was to build a Lookalike Model that recommends similar c
 - **Jupyter Notebook/Python Script** explaining the model development.
 - **Lookalike.csv** containing the recommendations.
 
+##Outputs:
+**Lookalike.csv**
+![image](https://github.com/user-attachments/assets/9d91e49a-b1df-404e-8d1a-6379e00f37c1)
+
+
+**Top 3 Lookalikes with Similarity**
+![image](https://github.com/user-attachments/assets/ae1ee45e-7d8a-4c03-a30e-80fdd3a143a4)
+
 ---
 
 ## Task 3: Customer Segmentation / Clustering
@@ -71,16 +79,13 @@ The objective of Task 2 was to build a Lookalike Model that recommends similar c
 In this task, we used clustering techniques to segment customers into distinct groups based on both their profile and transaction information.
 
 ### Steps Involved:
-1. **Data Preparation**:
-   - Combine the `Customers.csv` and `Transactions.csv` data to generate customer features, such as total purchases, total spending, and the frequency of purchasing each product category.
+To perform customer segmentation using clustering, we will:
 
-2. **Clustering Algorithm**:
-   - Applied a clustering algorithm (e.g., K-means) to segment customers into clusters based on the features.
-   - The number of clusters chosen was between 2 and 10 based on data characteristics and clustering metrics.
-
-3. **Evaluation**:
-   - Calculated the **DB Index** and other relevant clustering metrics to evaluate the effectiveness of the clustering.
-   - Visualized the clusters to provide insights into customer behavior patterns.
+1.Preprocess the data by aggregating transactions to form customer profiles.
+2.Combine profile information with transaction data.
+3.Apply a clustering algorithm.
+4.Calculate metrics, including the Davies-Bouldin Index (DB Index).
+5.Visualize clusters.
 
 ### Deliverables:
 - **Jupyter Notebook/Python Script** containing the clustering code.
@@ -88,6 +93,12 @@ In this task, we used clustering techniques to segment customers into distinct g
   - Number of clusters formed.
   - DB Index value.
   - Other relevant clustering metrics and visualizations.
+
+##Outputs:
+![image](https://github.com/user-attachments/assets/ba5e345a-de8a-4f1b-903a-af89c6f31ec8)
+
+![image](https://github.com/user-attachments/assets/1bc62d80-13c0-4721-b032-f1f648d42e94)
+![image](https://github.com/user-attachments/assets/f4d5d0d2-0291-49b1-9cbf-b0c280cac2f4)
 
 ---
 
