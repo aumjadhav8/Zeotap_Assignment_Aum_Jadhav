@@ -1,5 +1,3 @@
----
-
 # Zeotap Assignment
 
 This project focuses on customer segmentation, lookalike modeling, and clustering analysis using eCommerce transaction data. The dataset consists of three primary CSV files: `Customers.csv`, `Products.csv`, and `Transactions.csv`. The tasks aim to derive business insights, predict similar customers based on their profiles and transaction history, and segment customers using clustering techniques.
@@ -102,36 +100,3 @@ The following libraries are required to run the project:
 ### Installation
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn scipy
-```
-
----
-
-## Usage
-
-To execute the tasks, follow the steps below:
-
-1. Clone or download the repository.
-2. Ensure the `Customers.csv`, `Products.csv`, and `Transactions.csv` files are in the same directory as the notebook.
-3. For Task 1: Run the Jupyter Notebook or Python script to perform EDA and generate insights.
-4. For Task 2: Execute the Lookalike Model code to generate recommendations for customers.
-5. For Task 3: Run the clustering code to segment customers and evaluate the results.
-
----
-
-## Evaluation Criteria
-
-- **Task 1**:
-  - Depth and relevance of the business insights.
-  - Visualizations and clarity of the data analysis.
-  
-- **Task 2**:
-  - Accuracy and logic of the Lookalike Model.
-  - Quality of recommendations and similarity scores.
-
-- **Task 3**:
-  - Clustering logic and choice of features.
-  - Evaluation metrics like DB Index and other relevant metrics.
-  - Quality and clarity of visualizations.
-
----
-
