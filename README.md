@@ -100,6 +100,9 @@ To perform customer segmentation using clustering, we will:
 ![image](https://github.com/user-attachments/assets/1bc62d80-13c0-4721-b032-f1f648d42e94)
 ![image](https://github.com/user-attachments/assets/f4d5d0d2-0291-49b1-9cbf-b0c280cac2f4)
 
+##Customer Segmentation (csv file)
+![image](https://github.com/user-attachments/assets/057174f9-40f8-4b7e-9c2c-10e24adc9bc0)
+
 ---
 
 ## Dependencies
